@@ -20,8 +20,8 @@ public class DbUtil {
         rhost = "127.0.0.1";
         rport = 3306;
         user = "root";
-        password = "Linhao199741";
-        host = "115.47.143.18";
+        password = "数据库密码";
+        host = "主机ip";
         port = 32655;
         init();
     }
