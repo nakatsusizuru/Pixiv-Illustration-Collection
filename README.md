@@ -23,3 +23,15 @@
 
 ### 架构图:
 ![Image text](https://wx1.sinaimg.cn/large/006346uDgy1fvqaw2fb1dj31mv1b9qap.jpg)
+
+### 使用方法
+更改conf.xml文件与druid配置文件即可
+
+### 注意事项
+比如混淆方法等
+
+### TODO（可选）
+留言板筹备中
+
+## License
+待定
