@@ -2,7 +2,9 @@
 ---
 # Pixiv Illustration Collection
 -------------
+一个提供有限的pixiv日排行与高级会员搜索的站点
 
+### Link:https://pixivic.com
 
 ### Bright Point:
 - 前后端完全分离
